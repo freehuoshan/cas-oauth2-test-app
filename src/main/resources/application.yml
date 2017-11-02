@@ -1,0 +1,19 @@
+logging:
+ file: /home/huoshan/log/demo.log
+ level.root: DEBUG
+
+spring.freemarker:
+ cache: false
+ charset: UTF-8
+ enabled: true
+ suffix: .ftl
+
+server:
+ port: 8082
+ 
+ 
+oauth2:
+  client_id: clientid
+  client_secret: clientSecret
+  cas_server_url_prefix: https://cas.example.org:8443/cas/oauth2.0
+  call_back_url: http://hello.net/callback
