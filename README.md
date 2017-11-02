@@ -1,6 +1,6 @@
-##this project is to test the CAS Oauth2 function(UI and password)
+## this project is to test the CAS Oauth2 function(UI and password)
 
-##The application is a springboot application, first configured application.yml and config /etc/hosts `127.0.0.1  hello.net` and mapping server_name hello.net to poart 8082 and then start directly, visit http://hello.net
+## The application is a springboot application, first configured application.yml and config /etc/hosts `127.0.0.1  hello.net` and mapping server_name hello.net to poart 8082 and then start directly, visit http://hello.net
 
 
 
